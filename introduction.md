@@ -22,7 +22,7 @@ En Python, une variable est simplement un espace mémoire qui stocke une valeur.
 
 ### Exemple de code :
 
-```javascript
+```python
 # Déclaration d'une variable
 var nom = "Alice"
 var age = 25
