@@ -33,3 +33,37 @@ print("Nom :", nom)
 print("Âge :", age)
 
 
+# Chapter 1: Introduction
+
+<details>
+  <summary>Title 1: Getting Started</summary>
+  This is the content for Title 1. Here you can describe the introduction to your chapter in more detail.
+</details>
+
+<details>
+  <summary>Title 2: Installation</summary>
+  This is the content for Title 2. You can describe the installation process or requirements here.
+</details>
+
+<details>
+  <summary>Title 3: Configuration</summary>
+  Here you can explain how to configure your project.
+</details>
+
+<details>
+  <summary>Title 4: Usage</summary>
+  Provide instructions for how to use your project or tool here.
+</details>
+
+<details>
+  <summary>Title 5: Advanced Features</summary>
+  You can describe any advanced features of your project in this section.
+</details>
+
+<details>
+  <summary>Title 6: Troubleshooting</summary>
+  Offer troubleshooting tips or common issues here.
+</details>
+
+
+
