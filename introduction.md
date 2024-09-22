@@ -31,8 +31,3 @@ var age = 25
 console.log("Hello world")
 print("Nom :", nom)
 print("Âge :", age)
-
-
-
-
-
