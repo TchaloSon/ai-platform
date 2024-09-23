@@ -32,10 +32,4 @@ console.log("Hello world")
 print("Nom :", nom)
 print("Âge :", age)
 
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>what is DataBase</mark>
+Now everything seems to be cool. So let's get there
