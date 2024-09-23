@@ -31,3 +31,11 @@ var age = 25
 console.log("Hello world")
 print("Nom :", nom)
 print("Âge :", age)
+
+<style>
+mark{
+    color:red;
+}
+</style>
+
+<mark>what is DataBase</mark>
