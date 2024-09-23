@@ -1,17 +1,14 @@
-Hi everyone
-This is a markdown file. I'm testing something right now
-```
- public static void main(String []args){
-     console.log("Hello world")
-}
-```
-Now, let's continue where we stopped
+Follow the tutorials to begin your journey in AI.
 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-> [name=Tetereou Aboudourazakou] Tell me you are good, without telling me you are good
-
-- [ ] Let people see what it means to be so good.
+# Tutoriel Python : Introduction aux bases
+Bienvenue dans ce tutoriel d'introduction à Python. Python est un langage de programmation populaire, connu pour sa simplicité et sa lisibilité. Ce tutoriel vous guidera à travers les bases de Python avec un exemple simple pour vous aider à comprendre les concepts clés.
+## 1. Variables en Python
+En Python, une variable est simplement un espace mémoire qui stocke une valeur. Vous pouvez créer des variables et les affecter à différentes valeurs.
+### Exemple de code :
+```python
+# Déclaration d'une variable
+nom = "Alice"
+age = 25
+# Affichage des variables
+print("Nom :", nom)
+print("Âge :", age)
