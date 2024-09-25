@@ -74,6 +74,7 @@ def main():
 The code above is from grok.
 <div class="alert-warning" [href]="trustedUrl">
   <strong>Attention!</strong> This is an important message.
+    
  * First item
  * Second item
  * Third item
