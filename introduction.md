@@ -72,7 +72,7 @@ def main():
        
 ```
 The code above is from grok.
-<div class="alert-info" [href]="trustedUrl">
+<div class="alert-warning" [href]="trustedUrl">
   <strong>Attention!</strong> This is an important message.
     
  * First item
