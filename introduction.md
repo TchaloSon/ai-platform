@@ -69,30 +69,10 @@ def main():
     )
     inference_runner = InferenceRunner(
         pad_sizes=(1024,),
-        runner=ModelRunner(
-            model=grok_1_model,
-            bs_per_device=0.125,
-            checkpoint_path=CKPT_PATH,
-        ),
-        name="local",
-        load=CKPT_PATH,
-        tokenizer_path="./tokenizer.model",
-        local_mesh_config=(1, 8),
-        between_hosts_config=(1, 1),
-    )
-    inference_runner.initialize()
-    gen = inference_runner.run()
-
-    inp = "The answer to life the universe and everything is of course"
-    print(f"Output for prompt: {inp}", sample_from_model(gen, inp, max_len=100, temperature=0.01))
-
-
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)
-    main()
+       
 ```
 The code above is from grok.
-<div class="alert-important">
+<div class="alert-info">
   <strong>Attention!</strong> This is an important message.
 </div>
 
