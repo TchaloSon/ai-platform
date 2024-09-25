@@ -92,7 +92,7 @@ if __name__ == "__main__":
     main()
 ```
 The code above is from grok.
-<div style="background-color: #ffcccb; padding: 10px; border-left: 5px solid red; margin-bottom: 15px;">
+<div class="alert-important">
   <strong>Attention!</strong> This is an important message.
 </div>
 
